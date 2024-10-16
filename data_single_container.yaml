@@ -1,0 +1,31 @@
+path: D:/Internship/RecycloRobo.ai/indonesia_baverage/datasets
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 16
+names:
+  [
+    "can_bearBrand_original_189mL",
+    "can_larutanCapKakiTigaAnak_leci_250mL",
+    "can_lasegar_jerukNipis_320mL",
+    "can_lasegar_jeruk_320mL",
+    "can_lasegar_leci_320mL",
+    "can_lasegar_melon_320mL",
+    "can_lasegar_strawberi_320mL",
+    "can_milo_extraCoco_220mL",
+    "can_nescafe_mocha_220mL",
+    "can_nescafe_original_220mL",
+    "plasticBottle_cimory_strawberry-Mango_240mL",
+    "plasticBottle_fruitTea_markisa_350mL",
+    "plasticBottle_ichitanThaiMilkCoffee_saltedCaramel_300mL",
+    "plasticBottle_isoplus_original_350mL",
+    "plasticBottle_leMineral_mineralWater_600mL",
+    "plasticBottle_tehPucukHarum_ekstrakMelati_350mL",
+  ]
+# roboflow:
+#   workspace: indonesiabeverage
+#   project: indonesia-beverage-intern-lv1yu
+#   version: 1
+#   license: CC BY 4.0
+#   url: https://universe.roboflow.com/indonesiabeverage/indonesia-beverage-intern-lv1yu/dataset/1

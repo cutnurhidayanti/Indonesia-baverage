@@ -1,0 +1,15 @@
+.env-indo-beverage
+datasets
+mix_multi_single
+multicontainer
+requirements
+runs
+catatan.txt
+yolov8n.pt
+yolov8s.pt
+.picasa.ini
+data_multi_30img.yaml
+data_single_container.yaml
+gpu_checking.py
+label_increment.py
+data.py
